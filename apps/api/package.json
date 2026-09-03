@@ -15,7 +15,7 @@
     "@forgetops/database": "workspace:*",
     "@forgetops/signer": "workspace:*",
     "canonicalize": "3.0.0",
-    "fastify": "5.10.0",
+    "fastify": "5.12.1",
     "postgres": "3.4.9",
     "zod": "4.4.3"
   },
